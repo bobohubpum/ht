@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.clearfix{
+    clear: both;
+}
+.container{
+    width: 1950px;
+    margin: 0 auto;
+  overflow: hidden;
+  background-color: antiquewhite;
+}
+header{
+    text-align: left;
+    width: 1640px;
+    height: 500px;
+    background-image: url("lum3.jpg");
+    background-size: 1640px 500px;
+    margin: 0 auto;
+    font-family: 'Charm', cursive;
+}
+section{
+    margin-left: 41px;
+    margin-top: 20px;
+    text-align: center;
+    width: 250px;
+    height: 1000px;
+    line-height: 3;
+    float: left;
+}
+aside{
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 1400px;
+    height: 1000px;
+    text-align: center;
+    float: left;
+    font-family: 'Charm', cursive;
+    line-height: 2.5;
+}
+}
+}
